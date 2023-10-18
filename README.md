@@ -1,4 +1,8 @@
-# Entrega do desafio Diagramação de Classes do iPhone
+## Entrega do desafio: Diagramação de Classes do iPhone
+
+<img alt="Representação do projeto" height="380" src="./src/diagramacao.png">
+
+<br>
 
 Modelagem e diagramação da representação em UML e Código no que se refere ao componente iPhone.
 
@@ -13,4 +17,4 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
-
+❕ Desafio integrante do Santander Bootcamp 2023 - Fullstack Java+Angular da [DIO](www.dio.me).
